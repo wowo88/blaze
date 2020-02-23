@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+  <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M32 7h11v11M29 21L42.5 7.5"/>
+  <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M32 7h11v11M29 21L42.5 7.5M18 43H7V32M21 29L7.5 42.5"/>
+  <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M18 43H7V32M21 29L7.5 42.5M43 32v11H32M29 29l13.5 13.5"/>
+  <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M43 32v11H32M29 29l13.5 13.5M7 18V7h11M21 21L7.5 7.5"/>
+  <path fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M7 18V7h11M21 21L7.5 7.5"/>
+</svg>
